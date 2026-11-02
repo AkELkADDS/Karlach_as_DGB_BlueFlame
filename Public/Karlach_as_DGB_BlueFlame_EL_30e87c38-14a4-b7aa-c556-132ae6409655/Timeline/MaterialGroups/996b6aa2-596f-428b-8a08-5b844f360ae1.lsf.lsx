@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="326" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<attribute id="MaterialResourceID" type="guid" value="e4d1fd86-3d5a-fee9-b34a-b7d0ff585306" />
+			<attribute id="Name" type="FixedString" value="VFX_Cinematic_AlphaBlend_Karlach_HornGlow" />
+			<children>
+				<node id="strMaterialReference">
+					<attribute id="Key" type="guid" value="11819012-7bf3-6abd-36d3-df71ed33f376" />
+					<attribute id="VisualResourceID" type="guid" value="7e70991e-3b8d-8024-03fe-44c8861a46dd" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="ff3c2e61-1160-5dcb-b9eb-db53d2aa90f3" />
+					<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

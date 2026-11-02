@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<attribute id="MaterialResourceID" type="guid" value="8a538ded-ae8c-edf1-5183-7249a3b242e7" />
+			<attribute id="Name" type="FixedString" value="VFX_Cinematic_Overlay_CHAR_Karlach_Fire_01" />
+			<children>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="1712e20f-9e46-543a-a36f-274ea21ef087" />
+					<attribute id="SlotIndex" type="int32" value="0" />
+					<attribute id="VisualResourceID" type="guid" value="f138ea52-6d23-4581-a666-d0cc87d2e6d0" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="d8b09f69-e47f-5c7c-8987-ec955f43fc77" />
+					<attribute id="SlotIndex" type="int32" value="0" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="db89d97e-f26c-50e1-8391-fa4368eb6d1d" />
+					<attribute id="SlotIndex" type="int32" value="1" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="b874116a-ec51-522c-887f-dd3e20a7eefb" />
+					<attribute id="SlotIndex" type="int32" value="2" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="ce5aaf71-195d-51d0-91e6-21fd7be7819b" />
+					<attribute id="SlotIndex" type="int32" value="3" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="f7ed90cd-5b4d-5925-9f4a-086a43e476af" />
+					<attribute id="SlotIndex" type="int32" value="4" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

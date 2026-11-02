@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="320" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<attribute id="MaterialResourceID" type="guid" value="f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda" />
+			<attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_A_EL_1_Tattoo_PulseGlow_A_Karlach_Lava" />
+			<children>
+				<node id="strMaterialReference">
+					<attribute id="Key" type="guid" value="3d8a6c21-9f47-4b2e-8c15-6e90a4d2f8b3" />
+					<attribute id="SlotIndex" type="int32" value="0" />
+					<attribute id="VisualResourceID" type="guid" value="5eaccc19-26e6-4bcf-be6c-7fb5b671d366" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

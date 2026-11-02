@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TimelineBank">
+		<node id="TimelineBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BodyPartMocap" type="int32" value="1" />
+					<attribute id="DialogResourceId" type="guid" value="def822e8-3d5d-4a10-dd5d-a05bb1ab2507" />
+					<attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Timeline/Generated/WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.tml" />
+					<attribute id="EditorTimelineType" type="int32" value="4" />
+					<attribute id="FadeOutDuration" type="float" value="0" />
+					<attribute id="FadeOutOnEnd" type="bool" value="False" />
+					<attribute id="ID" type="FixedString" value="8fd4d538-9b6a-ec7d-b62b-8599f4f5ed47" />
+					<attribute id="IsGenerated" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash" />
+					<attribute id="SourceFile" type="LSString" value="Public/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Content/[PAK]_Timelines/WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

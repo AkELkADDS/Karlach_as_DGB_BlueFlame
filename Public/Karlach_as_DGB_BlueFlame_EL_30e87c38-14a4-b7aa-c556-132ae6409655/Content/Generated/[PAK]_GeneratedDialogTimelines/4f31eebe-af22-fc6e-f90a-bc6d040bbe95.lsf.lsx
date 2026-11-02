@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TimelineBank">
+		<node id="TimelineBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BodyPartMocap" type="int32" value="1" />
+					<attribute id="DialogResourceId" type="guid" value="f28a15b2-e04c-4da4-6eaa-0df4b5b240e9" />
+					<attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Timeline/Generated/PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.tml" />
+					<attribute id="EditorTimelineType" type="int32" value="0" />
+					<attribute id="FadeOutDuration" type="float" value="0" />
+					<attribute id="FadeOutOnEnd" type="bool" value="False" />
+					<attribute id="ID" type="FixedString" value="4f31eebe-af22-fc6e-f90a-bc6d040bbe95" />
+					<attribute id="IsGenerated" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage" />
+					<attribute id="SourceFile" type="LSString" value="Public/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Content/[PAK]_Timelines/PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f28a15b2-e04c-4da4-6eaa-0df4b5b240e9" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="2c76687d-93a2-477b-8b18-8a14b549304c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="921e9863-c24d-48bf-aefc-b8fd0ce610cb" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3912b65a-5a51-42d7-9fc6-a94a30acc644" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="859eb8f3-9011-4791-a3f4-6bff7cf6b15a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="39b9f899-e099-4806-89dc-ae25ed5f984b" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="5f46da74-52ff-4332-9da6-6faccab1a444" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="485e0531-5b28-4009-93ad-fa65edb810d4" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="e9c7fe27-11db-495c-b5af-f0b2311c99a3" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="46985096-38b0-414f-903f-9dcce57f31f4" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f2789138-f7d2-4b0d-a602-a465a79310ff" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="9f69f4ba-49a3-46c5-abf6-8c54858923fc" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="b98b7c2c-d7c9-4ce9-b3de-cf2847c27996" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="391e0897-1166-4a1a-8091-e94e6cf55c1b" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="13405ac3-2cbf-4e32-ab41-a49075992ca0" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="b2a50b9e-c83f-4f56-8718-6b2f90ca9d02" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="d3de0328-5da6-4af6-b831-48c28c3e07b1" />
+						</node>
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

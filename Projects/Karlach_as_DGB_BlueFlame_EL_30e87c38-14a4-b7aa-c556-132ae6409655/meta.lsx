@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="30e87c38-14a4-b7aa-c556-132ae6409655"/>
+            <attribute id="Name" type="LSString" value="Karlach_as_DGB_BlueFlame_EL"/>
+            <attribute id="UUID" type="LSString" value="1bbb2a7d-4259-13c3-da96-aa8d6291ebf9"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

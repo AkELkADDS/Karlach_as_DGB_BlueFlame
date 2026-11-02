@@ -1,0 +1,1075 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+   Mon 11/02/2026  7:25:56.39 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\GUI\metadata.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Localization\English\english.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\Dialogs\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsj 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\DialogsBinary\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\DialogsBinary\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsf.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 8 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Assets\Dialogs\Camp\[PAK]_Camp_Relationship_Dialogs\2bf0d0c0-495c-6866-d5ad-d37dd4fa3648.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Assets\Dialogs\Camp\[PAK]_Camp_Relationship_Dialogs\2bf0d0c0-495c-6866-d5ad-d37dd4fa3648.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\0d459372-10f0-6bb1-7a9e-30b4dbc81fea.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\0d459372-10f0-6bb1-7a9e-30b4dbc81fea.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1035410d-b3f3-8d66-4f68-5ffae223ed1e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1035410d-b3f3-8d66-4f68-5ffae223ed1e.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\103b86d4-cc14-a3b6-9491-02760a8685cd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\103b86d4-cc14-a3b6-9491-02760a8685cd.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1751b9ed-83e3-5bde-f2d7-15b466d04f4e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1751b9ed-83e3-5bde-f2d7-15b466d04f4e.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1d45811c-f4a5-8a72-2a2c-6216e088ea60.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1d45811c-f4a5-8a72-2a2c-6216e088ea60.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\252d9989-1f58-8bbd-0970-37a7a7cf84a9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\252d9989-1f58-8bbd-0970-37a7a7cf84a9.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\3a4a78c0-22b0-5d4b-a539-27227cda2042.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\3a4a78c0-22b0-5d4b-a539-27227cda2042.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\49db6b58-8a41-cb60-db50-599a4201f722.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\49db6b58-8a41-cb60-db50-599a4201f722.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4c2a69d5-040f-e4a9-bc18-e2431d3b3982.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4c2a69d5-040f-e4a9-bc18-e2431d3b3982.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4f31eebe-af22-fc6e-f90a-bc6d040bbe95.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4f31eebe-af22-fc6e-f90a-bc6d040bbe95.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5592b45a-7487-3663-915e-88b73b75677f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5592b45a-7487-3663-915e-88b73b75677f.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5dc30571-f08a-4b71-6eca-7a126ab45ab5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5dc30571-f08a-4b71-6eca-7a126ab45ab5.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\69d4e545-69a6-352c-5f9b-8f061865a696.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\69d4e545-69a6-352c-5f9b-8f061865a696.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\8fd4d538-9b6a-ec7d-b62b-8599f4f5ed47.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\8fd4d538-9b6a-ec7d-b62b-8599f4f5ed47.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\920bd458-ccb2-f66d-2fd5-11358fc7f082.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\920bd458-ccb2-f66d-2fd5-11358fc7f082.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\94bf75f5-b57f-1e6b-3375-bfedc6b56de5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\94bf75f5-b57f-1e6b-3375-bfedc6b56de5.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\96a07e5b-a8fa-4d3d-f299-7fb6ef0740c5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\96a07e5b-a8fa-4d3d-f299-7fb6ef0740c5.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\980baa6f-a09c-f210-4bd2-5b4e887adf6e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\980baa6f-a09c-f210-4bd2-5b4e887adf6e.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\99891547-d9cd-0289-96fe-eeb1d999938c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\99891547-d9cd-0289-96fe-eeb1d999938c.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\b154f0bb-f43c-83ac-c65c-3e344b022631.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\b154f0bb-f43c-83ac-c65c-3e344b022631.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\bd49d0c1-2300-fcd3-6beb-fe9efa651709.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\bd49d0c1-2300-fcd3-6beb-fe9efa651709.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c23e940e-895c-8df0-6a41-8a918825d251.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c23e940e-895c-8df0-6a41-8a918825d251.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c6d5f29e-2963-ba82-397b-5894969617fb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c6d5f29e-2963-ba82-397b-5894969617fb.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c79ba56f-decf-510d-04d6-4989b2043496.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c79ba56f-decf-510d-04d6-4989b2043496.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\cc7289f0-1aea-8e84-7030-e608b1595342.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\cc7289f0-1aea-8e84-7030-e608b1595342.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e3d6123c-122a-ac0f-4a0c-a212aec1bb0c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e3d6123c-122a-ac0f-4a0c-a212aec1bb0c.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e8836b7c-ace9-5a04-5789-0c00d30179a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e8836b7c-ace9-5a04-5789-0c00d30179a8.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e97a58f3-df65-a4fe-d079-9d67e463514a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e97a58f3-df65-a4fe-d079-9d67e463514a.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\ec184c40-75b0-f633-a583-2a0f2c68267d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\ec184c40-75b0-f633-a583-2a0f2c68267d.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\eddca850-3368-4e5b-41a7-4e3c8428e935.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\eddca850-3368-4e5b-41a7-4e3c8428e935.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\f51781da-9eef-d744-2615-7c8484faedac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\f51781da-9eef-d744-2615-7c8484faedac.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\fc1c9364-5e66-b645-1649-337cae5b9fb0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\fc1c9364-5e66-b645-1649-337cae5b9fb0.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Karlach_as_DGB_BlueFlame_EL\3e47fd89-5a1d-a19c-c849-d39f2ea24d94.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Karlach_as_DGB_BlueFlame_EL\3e47fd89-5a1d-a19c-c849-d39f2ea24d94.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_PulseGlow\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_PulseGlow\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Visuals\f138ea52-6d23-4581-a666-d0cc87d2e6d0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Visuals\f138ea52-6d23-4581-a666-d0cc87d2e6d0.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_Scene.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_Scene.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\06e19378-2ff1-402a-a000-218a58694104.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\06e19378-2ff1-402a-a000-218a58694104.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0996709e-67e6-47aa-a84c-198e3c7c58fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0996709e-67e6-47aa-a84c-198e3c7c58fa.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\09dc23f6-dd8b-4dd3-a037-634a54a453f7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\09dc23f6-dd8b-4dd3-a037-634a54a453f7.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0e69b399-8023-463a-84b5-ac841170384c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0e69b399-8023-463a-84b5-ac841170384c.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\18686725-73b2-4a70-9bce-4fc20ba2f102.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\18686725-73b2-4a70-9bce-4fc20ba2f102.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4429b5d4-9365-4bb5-8b81-bb34fd7497a2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4429b5d4-9365-4bb5-8b81-bb34fd7497a2.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4877d957-f3f4-5aca-b787-23580b53bde8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4877d957-f3f4-5aca-b787-23580b53bde8.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\489f5ab8-ace1-4a39-818c-07273191eaf9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\489f5ab8-ace1-4a39-818c-07273191eaf9.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4ae5f1e2-a873-42fa-8487-c816773e65be.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4ae5f1e2-a873-42fa-8487-c816773e65be.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\6a8a572c-b969-4d55-9299-ff98d29d49c0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\6a8a572c-b969-4d55-9299-ff98d29d49c0.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\8c983099-573c-4e3c-85f8-21c4b03c5e1a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\8c983099-573c-4e3c-85f8-21c4b03c5e1a.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\996b6aa2-596f-428b-8a08-5b844f360ae1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\996b6aa2-596f-428b-8a08-5b844f360ae1.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\9a832561-3d40-462c-b5b3-e72de8dda8e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\9a832561-3d40-462c-b5b3-e72de8dda8e5.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\a295ab14-9ab4-4cde-ba79-fee45d7c3f63.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\a295ab14-9ab4-4cde-ba79-fee45d7c3f63.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ace144c6-2f13-4a90-8338-719307f1d3a0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ace144c6-2f13-4a90-8338-719307f1d3a0.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ae2d949b-5a58-465c-abb4-c15e627a2a7b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ae2d949b-5a58-465c-abb4-c15e627a2a7b.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\b08896d5-a2bf-4c95-9b3c-121682eb37a1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\b08896d5-a2bf-4c95-9b3c-121682eb37a1.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb46af33-9e53-408d-9269-cb210899f6ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb46af33-9e53-408d-9269-cb210899f6ab.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb7a205a-f654-468f-a03a-f85088a1bd01.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb7a205a-f654-468f-a03a-f85088a1bd01.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c497b32d-dc02-425f-9341-94a8e99c7319.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c497b32d-dc02-425f-9341-94a8e99c7319.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c73c5636-521c-4032-85da-3f4ffffa6b3a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c73c5636-521c-4032-85da-3f4ffffa6b3a.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c8f4a21b-7d63-4e9a-b5c0-91e2d84a6f17.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c8f4a21b-7d63-4e9a-b5c0-91e2d84a6f17.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e28d1fa5-f287-480c-9705-6563a0f45812.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e28d1fa5-f287-480c-9705-6563a0f45812.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e4960711-37ae-486b-ae02-494d31469305.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e4960711-37ae-486b-ae02-494d31469305.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f0b0af69-36e2-5994-9f55-917ca5ff71e3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f0b0af69-36e2-5994-9f55-917ca5ff71e3.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f8fe87a1-2bcf-44bd-accf-63ce0970fb6c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f8fe87a1-2bcf-44bd-accf-63ce0970fb6c.lsf.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\fa705fdb-d441-4872-aecc-f31b55285d1a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\fa705fdb-d441-4872-aecc-f31b55285d1a.lsf.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 400 
+ 
+[LOG] Total files found across all folders: 410 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 to Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using destination: Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, November 2, 2026 7:26:00 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     706	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\meta.lsx100%  
+	    New File  		   3.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\thumbnail.png 32%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    3.08 m    3.08 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           201883937 Bytes/sec.
+   Speed :           11551.891 MegaBytes/min.
+   Ended : Monday, November 2, 2026 7:26:00 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 to "Editor\Mods"\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using destination: Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, November 2, 2026 7:26:01 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, November 2, 2026 7:26:01 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 to Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using destination: Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, November 2, 2026 7:26:03 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    6998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\meta.lsx100%  
+	    New File  		   3.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\GUI\metadata.lsf100%  
+	    New File  		     290	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\GUI\metadata.lsf.lsx100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Localization\English\english.xml100%  
+	    New File  		   2.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\Dialogs\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsj100%  
+	    New File  		  161001	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\DialogsBinary\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsf100%  
+	    New File  		  480400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Story\DialogsBinary\Camp\Camp_Relationship_Dialogs\CAMP_Karlach_CRD_ROM_Date.lsf.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11        11         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :    5.80 m    5.80 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           289932333 Bytes/sec.
+   Speed :           16590.061 MegaBytes/min.
+   Ended : Monday, November 2, 2026 7:26:03 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 to Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[DEBUG] Using destination: Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, November 2, 2026 7:26:05 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+     Dest : C:\GIT_BG3\MOD_REPOS\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   15590	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Karlach_as_DGB_BlueFlame_EL\3e47fd89-5a1d-a19c-c849-d39f2ea24d94.lsf100%  
+	    New File  		   44225	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Karlach_as_DGB_BlueFlame_EL\3e47fd89-5a1d-a19c-c849-d39f2ea24d94.lsf.lsx100%  
+	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_PulseGlow\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf100%  
+	    New File  		    6244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_PulseGlow\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf.lsx100%  
+	    New File  		   3.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date.lsf100%  
+	    New File  		  12.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date.lsf.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Generated\GeneratedDialogTimelines\CAMP_Karlach_CRD_ROM_Date_Scene.lsx100%  
+	    New File  		    2606	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Visuals\f138ea52-6d23-4581-a666-d0cc87d2e6d0.lsf100%  
+	    New File  		    2680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Visuals\f138ea52-6d23-4581-a666-d0cc87d2e6d0.lsf.lsx100%  
+	    New File  		   3.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date.lsf100%  
+	    New File  		  12.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date.lsf.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_CRD_ROM_Date_Scene.lsx100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf100%  
+	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf.lsx100%  
+	    New File  		   73149	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf100%  
+	    New File  		  307487	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf.lsx100%  
+	    New File  		  614103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsx100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM.lsf100%  
+	    New File  		   8.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM.lsf.lsx100%  
+	    New File  		  113692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsf100%  
+	    New File  		  978919	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsx100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach.lsf100%  
+	    New File  		  16.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach.lsf.lsx100%  
+	    New File  		  174387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach_Scene.lsf100%  
+	    New File  		   1.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_DeathofKarlach_Scene.lsx100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus.lsf100%  
+	    New File  		   3.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus.lsf.lsx100%  
+	    New File  		   59252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus_Scene.lsf100%  
+	    New File  		  517940	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\END_GameFinale_KarlachInAvernus_Scene.lsx100%  
+	    New File  		   2.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach.lsf100%  
+	    New File  		   8.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach.lsf.lsx100%  
+	    New File  		   27690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach_Scene.lsf100%  
+	    New File  		  225857	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\EPI_Epilogue_Karlach_Scene.lsx100%  
+	    New File  		   3.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac.lsf100%  
+	    New File  		  12.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac.lsf.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\f51781da-9eef-d744-2615-7c8484faedac_Scene.lsx100%  
+	    New File  		   6.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty.lsf100%  
+	    New File  		  24.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty.lsf.lsx100%  
+	    New File  		  998745	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND.lsf100%  
+	    New File  		   3.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND.lsf.lsx100%  
+	    New File  		   13733	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsf100%  
+	    New File  		   50886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsf.lsx100%  
+	    New File  		  100821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InPartyEND_Scene.lsx100%  
+	    New File  		  187183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf100%  
+	    New File  		  694424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsx100%  
+	    New File  		  816394	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory.lsf100%  
+	    New File  		   2.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory.lsf.lsx100%  
+	    New File  		    3638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsf100%  
+	    New File  		    9071	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsf.lsx100%  
+	    New File  		   17159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Backstory_Scene.lsx100%  
+	    New File  		  167423	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf100%  
+	    New File  		  621620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf.lsx100%  
+	    New File  		    4696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsf100%  
+	    New File  		   24790	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsx100%  
+	    New File  		  233096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting.lsf100%  
+	    New File  		   3.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date.lsf100%  
+	    New File  		  870959	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting.lsf.lsx100%  
+	    New File  		    4051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting_Scene.lsf100%  
+	    New File  		   19881	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_GortashSighting_Scene.lsx100%  
+	    New File  		  299513	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive.lsf100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive.lsf.lsx100%  
+	    New File  		    4736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive_Scene.lsf100%  
+	    New File  		   24695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_Overdrive_Scene.lsx100%  
+	    New File  		  188274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance.lsf100%  
+	    New File  		  693408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsf100%  
+	    New File  		  12.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date.lsf.lsx100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_CRD_ROM_Date_Scene.lsx100%  
+	    New File  		  494387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora.lsf  0%  100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf100%  
+	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart.lsf.lsx100%  
+	    New File  		   73149	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf100%  
+	    New File  		  307487	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsf.lsx100%  
+	    New File  		  614103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_Karlach_SD_ROM_ForgingOfTheHeart_Scene.lsx100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM.lsf100%  
+	    New File  		   8.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM.lsf.lsx100%  
+	    New File  		  113692	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsf100%  
+	    New File  		  978919	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\CAMP_MizoraMorningAfter_CFM_ROM_Scene.lsx100%  
+	    New File  		   4.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach.lsf100%  
+	    New File  		  16.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach.lsf.lsx100%  
+	    New File  		  174387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach_Scene.lsf100%  
+	    New File  		   1.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_DeathofKarlach_Scene.lsx100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus.lsf100%  
+	    New File  		   3.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus.lsf.lsx100%  
+	    New File  		   59252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus_Scene.lsf100%  
+	    New File  		  517940	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\END_GameFinale_KarlachInAvernus_Scene.lsx100%  
+	    New File  		   2.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach.lsf100%  
+	    New File  		   8.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach.lsf.lsx100%  
+	    New File  		   27690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach_Scene.lsf100%  
+	    New File  		  225857	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\EPI_Epilogue_Karlach_Scene.lsx100%  
+	    New File  		   6.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty.lsf100%  
+	    New File  		  24.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty.lsf.lsx100%  
+	    New File  		  998745	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND.lsf100%  
+	    New File  		   3.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND.lsf.lsx100%  
+	    New File  		   13733	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsf100%  
+	    New File  		   50886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsf.lsx100%  
+	    New File  		  100821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InPartyEND_Scene.lsx100%  
+	    New File  		  187183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf100%  
+	    New File  		  694424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_AcceptedGortashAlliance_Scene.lsx100%  
+	    New File  		  816394	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory.lsf100%  
+	    New File  		   2.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory.lsf.lsx100%  
+	    New File  		    3638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsf100%  
+	    New File  		    9071	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsf.lsx100%  
+	    New File  		   17159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Backstory_Scene.lsx100%  
+	    New File  		  167423	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf100%  
+	    New File  		  621620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash.lsf.lsx100%  
+	    New File  		   1.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SleptWithMizora_Scene.lsx100%  
+	    New File  		  202245	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin.lsf100%  
+	    New File  		  743526	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_SoulCoin_Scene.lsx100%  
+	    New File  		   9.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings.lsf100%  
+	    New File  		  35.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings.lsf.lsx100%  
+	    New File  		    4000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings_Scene.lsf100%  
+	    New File  		   19724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Nested_TopicalGreetings_Scene.lsx100%  
+	    New File  		   35612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsf100%  
+	    New File  		  141508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsf.lsx100%  
+	    New File  		    4696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsf100%  
+	    New File  		   24790	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_FlorrickMentionsGortash_Scene.lsx100%  
+	    New File  		  233096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting.lsf100%  
+	    New File  		  870959	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting.lsf.lsx100%  
+	    New File  		    4051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting_Scene.lsf100%  
+	    New File  		   19881	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_GortashSighting_Scene.lsx100%  
+	    New File  		  299513	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive.lsf100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive.lsf.lsx100%  
+	    New File  		    4736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive_Scene.lsf100%  
+	    New File  		   24695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_Overdrive_Scene.lsx100%  
+	    New File  		  188274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance.lsf100%  
+	    New File  		  693408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_RejectedGortashAlliance_Scene.lsx100%  
+	    New File  		  494387	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora.lsf100%  
+	    New File  		   1.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SleptWithMizora_Scene.lsx100%  
+	    New File  		  202245	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin.lsf100%  
+	    New File  		  743526	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin.lsf.lsx100%  
+	    New File  		    4274	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin_Scene.lsf100%  
+	    New File  		   21572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_SoulCoin_Scene.lsx100%  
+	    New File  		   9.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings.lsf100%  
+	    New File  		  35.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings.lsf.lsx100%  
+	    New File  		    4000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings_Scene.lsf100%  
+	    New File  		   19724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Nested_TopicalGreetings_Scene.lsx100%  
+	    New File  		  289320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\Karlach_InParty_Scene.lsx100%  
+	    New File  		  646645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf.lsx100%  
+	    New File  		   16522	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsf100%  
+	    New File  		  133203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsx100%  
+	    New File  		  586218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf100%  
+	    New File  		   2.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		   26561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		   35612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsf100%  
+	    New File  		  217041	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		  141508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsf.lsx100%  
+	    New File  		  230087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive.lsf100%  
+	    New File  		  854880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive.lsf.lsx100%  
+	    New File  		  289320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\Karlach_InParty_Scene.lsx100%  
+	    New File  		   12974	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive_Scene.lsf100%  
+	    New File  		  646645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf100%  
+	    New File  		   96495	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_AvatarOverdrive_Scene.lsx100%  
+	    New File  		   2.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM.lsf.lsx100%  
+	    New File  		  131383	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin.lsf100%  
+	    New File  		   16522	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsf100%  
+	    New File  		  497119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin.lsf.lsx100%  
+	    New File  		  133203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_AOM_OOM_Scene.lsx100%  
+	    New File  		    3308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin_Scene.lsf100%  
+	    New File  		  586218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf100%  
+	    New File  		   13937	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\ORI_Karlach_FoundSoulCoin_Scene.lsx100%  
+	    New File  		   2.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		   3.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA.lsf100%  
+	    New File  		   26561	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		  11.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA.lsf.lsx100%  
+	    New File  		  217041	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\MOO_MoonriseBazarSoulCoins_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		   14048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf100%  
+	    New File  		   52167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf.lsx100%  
+	    New File  		  230087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive.lsf100%  
+	    New File  		  102473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsx100%  
+	    New File  		  854880	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive.lsf.lsx100%  
+	    New File  		   69937	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf100%  
+	    New File  		   12974	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive_Scene.lsf100%  
+	    New File  		  250150	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf.lsx100%  
+	    New File  		   96495	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_AvatarOverdrive_Scene.lsx100%  
+	    New File  		    3677	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsf100%  
+	    New File  		  131383	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin.lsf100%  
+	    New File  		   16590	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsx100%  
+	    New File  		  497119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin.lsf.lsx100%  
+	    New File  		  112020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf100%  
+	    New File  		    3308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin_Scene.lsf100%  
+	    New File  		  414881	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf.lsx100%  
+	    New File  		   13937	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\ORI_Karlach_FoundSoulCoin_Scene.lsx100%  
+	    New File  		    9484	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsf100%  
+	    New File  		   3.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA.lsf100%  
+	    New File  		   63572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsx100%  
+	    New File  		  11.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA.lsf.lsx100%  
+	    New File  		  330583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf100%  
+	    New File  		   14048	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf.lsx100%  
+	    New File  		   52167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsf.lsx100%  
+	    New File  		    7086	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsf100%  
+	    New File  		  102473	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_KarlachRecruitment_Karlach_PostEA_Scene.lsx100%  
+	    New File  		   44386	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsx100%  
+	    New File  		   69937	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf100%  
+	    New File  		  440169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf100%  
+	    New File  		  250150	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage.lsf.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		    3677	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsf100%  
+	    New File  		   37978	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		   16590	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachAfterEnrage_Scene.lsx100%  
+	    New File  		  155317	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf.lsx100%  
+	    New File  		  112020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf100%  
+	    New File  		  321597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		  414881	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage.lsf.lsx100%  
+	    New File  		   75562	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach.lsf100%  
+	    New File  		    9484	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsf100%  
+	    New File  		  277516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach.lsf.lsx100%  
+	    New File  		   63572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_AvatarKarlachBeforeEnrage_Scene.lsx100%  
+	    New File  		    4826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf100%  
+	    New File  		  330583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf100%  
+	    New File  		   13104	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf.lsx100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM.lsf.lsx  0%  100%  
+	    New File  		   24458	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsx100%  
+	    New File  		    7086	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsf100%  
+	    New File  		   44386	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_AOM_OOM_Scene.lsx100%  
+	    New File  		  440169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		   37978	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		   2.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf100%  
+	    New File  		  155317	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsf.lsx100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf.lsx100%  
+	    New File  		  321597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		   34297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsf100%  
+	    New File  		   75562	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach.lsf100%  
+	    New File  		  287266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsx100%  
+	    New File  		  277516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach.lsf.lsx100%  
+	    New File  		  518508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf100%  
+	    New File  		    4826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf100%  
+	    New File  		   1.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf.lsx100%  
+	    New File  		   13104	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsf.lsx100%  
+	    New File  		   55922	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsf100%  
+	    New File  		   24458	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\PLA_PaladinsOfTyr_WRD_Karlach_Scene.lsx100%  
+	    New File  		  447070	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsx100%  
+	    New File  		   2.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM.lsf.lsx100%  
+	    New File  		   34297	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsf100%  
+	    New File  		  287266	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_AOM_OOM_Scene.lsx100%  
+	    New File  		  518508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf100%  
+	    New File  		   1.8 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM.lsf.lsx100%  
+	    New File  		   13531	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf100%  
+	    New File  		   55922	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsf100%  
+	    New File  		  447070	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_OM_KarlachAndGortashEncounter_COM_Scene.lsx100%  
+	    New File  		   13531	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf100%  
+	    New File  		   44120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf.lsx100%  
+	    New File  		    3506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsf100%  
+	    New File  		   15635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsx100%  
+	    New File  		   6.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony.lsf100%  
+	    New File  		  23.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony.lsf.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf100%  
+	    New File  		   4.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		   99983	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		  890075	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		  138547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_Scene.lsf100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\Generated\WYR_KillDirectorGortash_Ceremony_Scene.lsx100%  
+	    New File  		   44120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash.lsf.lsx100%  
+	    New File  		    3506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsf100%  
+	    New File  		   15635	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_GortashConfrontation_PAD_KarlachSpotsPermadefeatedGortash_Scene.lsx100%  
+	    New File  		   6.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony.lsf100%  
+	    New File  		  23.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony.lsf.lsx100%  
+	    New File  		   1.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf100%  
+	    New File  		   4.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM.lsf.lsx100%  
+	    New File  		   99983	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsf100%  
+	    New File  		  890075	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_OM_Karlach_COM_Scene.lsx100%  
+	    New File  		  138547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_Scene.lsf100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\[PAK]_Timelines\WYR_KillDirectorGortash_Ceremony_Scene.lsx100%  
+	    New File  		    2340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\06e19378-2ff1-402a-a000-218a58694104.lsf100%  
+	    New File  		    4228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\06e19378-2ff1-402a-a000-218a58694104.lsf.lsx100%  
+	    New File  		    1393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0996709e-67e6-47aa-a84c-198e3c7c58fa.lsf100%  
+	    New File  		     902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0996709e-67e6-47aa-a84c-198e3c7c58fa.lsf.lsx100%  
+	    New File  		    1935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\09dc23f6-dd8b-4dd3-a037-634a54a453f7.lsf100%  
+	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\09dc23f6-dd8b-4dd3-a037-634a54a453f7.lsf.lsx100%  
+	    New File  		    1393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0e69b399-8023-463a-84b5-ac841170384c.lsf100%  
+	    New File  		     902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\0e69b399-8023-463a-84b5-ac841170384c.lsf.lsx100%  
+	    New File  		    2143	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\18686725-73b2-4a70-9bce-4fc20ba2f102.lsf100%  
+	    New File  		    3455	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\18686725-73b2-4a70-9bce-4fc20ba2f102.lsf.lsx100%  
+	    New File  		    1370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4429b5d4-9365-4bb5-8b81-bb34fd7497a2.lsf100%  
+	    New File  		     768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4429b5d4-9365-4bb5-8b81-bb34fd7497a2.lsf.lsx100%  
+	    New File  		    1871	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4877d957-f3f4-5aca-b787-23580b53bde8.lsf100%  
+	    New File  		    2579	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4877d957-f3f4-5aca-b787-23580b53bde8.lsf.lsx100%  
+	    New File  		    1370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\489f5ab8-ace1-4a39-818c-07273191eaf9.lsf100%  
+	    New File  		     768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\489f5ab8-ace1-4a39-818c-07273191eaf9.lsf.lsx100%  
+	    New File  		    2139	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4ae5f1e2-a873-42fa-8487-c816773e65be.lsf100%  
+	    New File  		    3501	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\4ae5f1e2-a873-42fa-8487-c816773e65be.lsf.lsx100%  
+	    New File  		    1935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\6a8a572c-b969-4d55-9299-ff98d29d49c0.lsf100%  
+	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\6a8a572c-b969-4d55-9299-ff98d29d49c0.lsf.lsx100%  
+	    New File  		    2108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\8c983099-573c-4e3c-85f8-21c4b03c5e1a.lsf100%  
+	    New File  		    3470	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\8c983099-573c-4e3c-85f8-21c4b03c5e1a.lsf.lsx100%  
+	    New File  		    1426	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\996b6aa2-596f-428b-8a08-5b844f360ae1.lsf100%  
+	    New File  		     971	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\996b6aa2-596f-428b-8a08-5b844f360ae1.lsf.lsx100%  
+	    New File  		    1370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\9a832561-3d40-462c-b5b3-e72de8dda8e5.lsf100%  
+	    New File  		     768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\9a832561-3d40-462c-b5b3-e72de8dda8e5.lsf.lsx100%  
+	    New File  		    2159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\a295ab14-9ab4-4cde-ba79-fee45d7c3f63.lsf100%  
+	    New File  		    3521	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\a295ab14-9ab4-4cde-ba79-fee45d7c3f63.lsf.lsx100%  
+	    New File  		    1393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ace144c6-2f13-4a90-8338-719307f1d3a0.lsf100%  
+	    New File  		     902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ace144c6-2f13-4a90-8338-719307f1d3a0.lsf.lsx100%  
+	    New File  		    1447	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ae2d949b-5a58-465c-abb4-c15e627a2a7b.lsf100%  
+	    New File  		    1000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\ae2d949b-5a58-465c-abb4-c15e627a2a7b.lsf.lsx100%  
+	    New File  		    1370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\b08896d5-a2bf-4c95-9b3c-121682eb37a1.lsf100%  
+	    New File  		     768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\b08896d5-a2bf-4c95-9b3c-121682eb37a1.lsf.lsx100%  
+	    New File  		    1393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb46af33-9e53-408d-9269-cb210899f6ab.lsf100%  
+	    New File  		     902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb46af33-9e53-408d-9269-cb210899f6ab.lsf.lsx100%  
+	    New File  		    2147	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb7a205a-f654-468f-a03a-f85088a1bd01.lsf100%  
+	    New File  		    3459	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\bb7a205a-f654-468f-a03a-f85088a1bd01.lsf.lsx100%  
+	    New File  		    2147	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c497b32d-dc02-425f-9341-94a8e99c7319.lsf100%  
+	    New File  		    3459	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c497b32d-dc02-425f-9341-94a8e99c7319.lsf.lsx100%  
+	    New File  		    2144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c73c5636-521c-4032-85da-3f4ffffa6b3a.lsf100%  
+	    New File  		    3456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c73c5636-521c-4032-85da-3f4ffffa6b3a.lsf.lsx100%  
+	    New File  		    1370	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c8f4a21b-7d63-4e9a-b5c0-91e2d84a6f17.lsf100%  
+	    New File  		     742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\c8f4a21b-7d63-4e9a-b5c0-91e2d84a6f17.lsf.lsx100%  
+	    New File  		    1362	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e28d1fa5-f287-480c-9705-6563a0f45812.lsf100%  
+	    New File  		     813	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e28d1fa5-f287-480c-9705-6563a0f45812.lsf.lsx100%  
+	    New File  		    1393	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e4960711-37ae-486b-ae02-494d31469305.lsf100%  
+	    New File  		     902	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\e4960711-37ae-486b-ae02-494d31469305.lsf.lsx100%  
+	    New File  		    1914	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f0b0af69-36e2-5994-9f55-917ca5ff71e3.lsf100%  
+	    New File  		    2622	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f0b0af69-36e2-5994-9f55-917ca5ff71e3.lsf.lsx100%  
+	    New File  		    1935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f8fe87a1-2bcf-44bd-accf-63ce0970fb6c.lsf100%  
+	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\f8fe87a1-2bcf-44bd-accf-63ce0970fb6c.lsf.lsx100%  
+	    New File  		    1935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\fa705fdb-d441-4872-aecc-f31b55285d1a.lsf100%  
+	    New File  		    2811	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Timeline\MaterialGroups\fa705fdb-d441-4872-aecc-f31b55285d1a.lsf.lsx100%  
+	    New File  		   11192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\0d459372-10f0-6bb1-7a9e-30b4dbc81fea.lsf100%  
+	    New File  		   28079	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\0d459372-10f0-6bb1-7a9e-30b4dbc81fea.lsf.lsx100%  
+	    New File  		    5705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1035410d-b3f3-8d66-4f68-5ffae223ed1e.lsf100%  
+	    New File  		   12242	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1035410d-b3f3-8d66-4f68-5ffae223ed1e.lsf.lsx100%  
+	    New File  		   12632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\103b86d4-cc14-a3b6-9491-02760a8685cd.lsf100%  
+	    New File  		   32309	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\103b86d4-cc14-a3b6-9491-02760a8685cd.lsf.lsx100%  
+	    New File  		    8885	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1751b9ed-83e3-5bde-f2d7-15b466d04f4e.lsf100%  
+	    New File  		   21362	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1751b9ed-83e3-5bde-f2d7-15b466d04f4e.lsf.lsx100%  
+	    New File  		    5819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1d45811c-f4a5-8a72-2a2c-6216e088ea60.lsf100%  
+	    New File  		   12716	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\1d45811c-f4a5-8a72-2a2c-6216e088ea60.lsf.lsx100%  
+	    New File  		    3515	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\252d9989-1f58-8bbd-0970-37a7a7cf84a9.lsf100%  
+	    New File  		    6093	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\252d9989-1f58-8bbd-0970-37a7a7cf84a9.lsf.lsx100%  
+	    New File  		    6938	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\3a4a78c0-22b0-5d4b-a539-27227cda2042.lsf100%  
+	    New File  		   15905	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\3a4a78c0-22b0-5d4b-a539-27227cda2042.lsf.lsx100%  
+	    New File  		    3851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\49db6b58-8a41-cb60-db50-599a4201f722.lsf100%  
+	    New File  		    7059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\49db6b58-8a41-cb60-db50-599a4201f722.lsf.lsx100%  
+	    New File  		    3149	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4c2a69d5-040f-e4a9-bc18-e2431d3b3982.lsf100%  
+	    New File  		    5007	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4c2a69d5-040f-e4a9-bc18-e2431d3b3982.lsf.lsx100%  
+	    New File  		    2828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4f31eebe-af22-fc6e-f90a-bc6d040bbe95.lsf100%  
+	    New File  		    4138	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\4f31eebe-af22-fc6e-f90a-bc6d040bbe95.lsf.lsx100%  
+	    New File  		    4775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5592b45a-7487-3663-915e-88b73b75677f.lsf100%  
+	    New File  		    9898	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5592b45a-7487-3663-915e-88b73b75677f.lsf.lsx100%  
+	    New File  		   10808	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5dc30571-f08a-4b71-6eca-7a126ab45ab5.lsf100%  
+	    New File  		   27065	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\5dc30571-f08a-4b71-6eca-7a126ab45ab5.lsf.lsx100%  
+	    New File  		    3029	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\69d4e545-69a6-352c-5f9b-8f061865a696.lsf100%  
+	    New File  		    4617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\69d4e545-69a6-352c-5f9b-8f061865a696.lsf.lsx100%  
+	    New File  		    1945	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\8fd4d538-9b6a-ec7d-b62b-8599f4f5ed47.lsf100%  
+	    New File  		    1454	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\8fd4d538-9b6a-ec7d-b62b-8599f4f5ed47.lsf.lsx100%  
+	    New File  		   10538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\920bd458-ccb2-f66d-2fd5-11358fc7f082.lsf100%  
+	    New File  		   26255	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\920bd458-ccb2-f66d-2fd5-11358fc7f082.lsf.lsx100%  
+	    New File  		    4316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\94bf75f5-b57f-1e6b-3375-bfedc6b56de5.lsf100%  
+	    New File  		    8423	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\94bf75f5-b57f-1e6b-3375-bfedc6b56de5.lsf.lsx100%  
+	    New File  		    3074	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\96a07e5b-a8fa-4d3d-f299-7fb6ef0740c5.lsf100%  
+	    New File  		    4751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\96a07e5b-a8fa-4d3d-f299-7fb6ef0740c5.lsf.lsx100%  
+	    New File  		    3125	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\980baa6f-a09c-f210-4bd2-5b4e887adf6e.lsf100%  
+	    New File  		    4893	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\980baa6f-a09c-f210-4bd2-5b4e887adf6e.lsf.lsx100%  
+	    New File  		    2690	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\99891547-d9cd-0289-96fe-eeb1d999938c.lsf100%  
+	    New File  		    3737	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\99891547-d9cd-0289-96fe-eeb1d999938c.lsf.lsx100%  
+	    New File  		   15938	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\b154f0bb-f43c-83ac-c65c-3e344b022631.lsf100%  
+	    New File  		   41825	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\b154f0bb-f43c-83ac-c65c-3e344b022631.lsf.lsx100%  
+	    New File  		    4433	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\bd49d0c1-2300-fcd3-6beb-fe9efa651709.lsf100%  
+	    New File  		    8810	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\bd49d0c1-2300-fcd3-6beb-fe9efa651709.lsf.lsx100%  
+	    New File  		   14555	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c23e940e-895c-8df0-6a41-8a918825d251.lsf100%  
+	    New File  		   37832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c23e940e-895c-8df0-6a41-8a918825d251.lsf.lsx100%  
+	    New File  		    5222	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c6d5f29e-2963-ba82-397b-5894969617fb.lsf100%  
+	    New File  		   10949	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c6d5f29e-2963-ba82-397b-5894969617fb.lsf.lsx100%  
+	    New File  		    8039	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c79ba56f-decf-510d-04d6-4989b2043496.lsf100%  
+	    New File  		   19167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\c79ba56f-decf-510d-04d6-4989b2043496.lsf.lsx100%  
+	    New File  		    3053	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\cc7289f0-1aea-8e84-7030-e608b1595342.lsf100%  
+	    New File  		    4731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\cc7289f0-1aea-8e84-7030-e608b1595342.lsf.lsx100%  
+	    New File  		    2486	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e3d6123c-122a-ac0f-4a0c-a212aec1bb0c.lsf100%  
+	    New File  		    3173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e3d6123c-122a-ac0f-4a0c-a212aec1bb0c.lsf.lsx100%  
+	    New File  		    3029	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e8836b7c-ace9-5a04-5789-0c00d30179a8.lsf100%  
+	    New File  		    4617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e8836b7c-ace9-5a04-5789-0c00d30179a8.lsf.lsx100%  
+	    New File  		    2345	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e97a58f3-df65-a4fe-d079-9d67e463514a.lsf100%  
+	    New File  		    2725	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\e97a58f3-df65-a4fe-d079-9d67e463514a.lsf.lsx100%  
+	    New File  		    3248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\ec184c40-75b0-f633-a583-2a0f2c68267d.lsf100%  
+	    New File  		    5285	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\ec184c40-75b0-f633-a583-2a0f2c68267d.lsf.lsx100%  
+	    New File  		    6248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\eddca850-3368-4e5b-41a7-4e3c8428e935.lsf100%  
+	    New File  		   14045	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\eddca850-3368-4e5b-41a7-4e3c8428e935.lsf.lsx100%  
+	    New File  		   20727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\f51781da-9eef-d744-2615-7c8484faedac.lsf100%  
+	    New File  		   55666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\f51781da-9eef-d744-2615-7c8484faedac.lsf.lsx100%  
+	    New File  		    2984	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\fc1c9364-5e66-b645-1649-337cae5b9fb0.lsf100%  
+	    New File  		    4572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Generated\[PAK]_GeneratedDialogTimelines\fc1c9364-5e66-b645-1649-337cae5b9fb0.lsf.lsx100%  
+	    New File  		    1968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Assets\Dialogs\Camp\[PAK]_Camp_Relationship_Dialogs\2bf0d0c0-495c-6866-d5ad-d37dd4fa3648.lsf100%  
+	    New File  		    1933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655\Content\Assets\Dialogs\Camp\[PAK]_Camp_Relationship_Dialogs\2bf0d0c0-495c-6866-d5ad-d37dd4fa3648.lsf.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        21        21         1         0         0         0
+   Files :       400       400         0         0         0         0
+   Bytes :  537.96 m  537.96 m         0         0         0         0
+   Times :   0:00:05   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           588218672 Bytes/sec.
+   Speed :           33658.142 MegaBytes/min.
+   Ended : Monday, November 2, 2026 7:26:06 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 400 
+[DEBUG] Successfully copied files: 400 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655: 
+      Total files: 400 
+      Copied successfully: 400 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 400 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 410 
+[SUMMARY] Total files successfully copied: 820 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TimelineBank">
+		<node id="TimelineBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BodyPartMocap" type="int32" value="1" />
+					<attribute id="DialogResourceId" type="guid" value="12459660-b66e-9b0b-9963-670e0993543d" />
+					<attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Timeline/Generated/Karlach_InParty.tml" />
+					<attribute id="EditorTimelineType" type="int32" value="0" />
+					<attribute id="FadeOutDuration" type="float" value="0" />
+					<attribute id="FadeOutOnEnd" type="bool" value="False" />
+					<attribute id="ID" type="FixedString" value="eddca850-3368-4e5b-41a7-4e3c8428e935" />
+					<attribute id="IsGenerated" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="Karlach_InParty" />
+					<attribute id="SourceFile" type="LSString" value="Public/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Content/[PAK]_Timelines/Karlach_InParty.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144959613005988540" />
+					<children>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="12459660-b66e-9b0b-9963-670e0993543d" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="2c76687d-93a2-477b-8b18-8a14b549304c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c774d764-4a17-48dc-b470-32ace9ce447d" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="bbb9c649-e86d-43a1-b171-d0a8006e8b5e" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="58a69333-40bf-8358-1d17-fff240d7fb12" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3ed74f06-3c60-42dc-83f6-f034cb47c679" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ad9af97d-75da-406a-ae13-7071c563f604" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c7c13742-bacd-460a-8f65-f864fe41f255" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7628bc0e-52b8-42a7-856a-13a6fd413323" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="91b6b200-7d00-4d62-8dc9-99e8339dfa1a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="0de603c5-42e2-4811-9dad-f652de080eba" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="25721313-0c15-4935-8176-9f134385451b" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="af80502d-e000-4da2-beeb-017dbfbc1345" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f5c1477a-a6fa-4d87-bc78-feec229806d9" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="6e45a00b-bad2-40bb-9403-147b9e92d976" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="58353adb-173d-40d2-b2b2-dff1dcdf7a26" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="faff6369-2b1f-43ab-84c6-ce9c94647e1e" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="e254b080-47c1-4728-a3ba-6bba37077445" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7bcc10aa-f1c1-4de3-b073-40c9e7c6704c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="41f80ee2-9674-45b9-a7ed-b0e03323c3e0" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ba57ffaf-99d3-423c-bdda-4eeb62b8846a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="cf1398b0-4598-4712-ab14-4443d0fc5d2f" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="964b853c-2f1e-4295-a91d-b16c3f005f94" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="384ed026-1542-4714-9383-1fcf418302a5" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="b5174f2a-9890-4673-91e6-955b1a3071f1" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="aecf415c-184a-4a0d-a7c2-2737d537d88f" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="94f83a30-dda7-4f70-a9de-42ab121ba651" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="cc7b5bb2-af67-4efd-9590-7fea09608cc1" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ca9238a1-755c-4a26-8a2a-fa9e101a4b59" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="9b7836f2-518c-485a-b203-38daccae8079" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="6a02d1b8-c3e4-4eea-a042-06423d400812" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="681e21ab-d6a9-47ee-b096-5c6606b5cd18" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="bc4af39b-26ca-46eb-a64a-7643124f7084" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="1432775b-2be0-4ca0-9ebe-d65826afa8b5" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f675f512-1165-b600-51cf-b118bb6eabdf" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c26b9b0a-20cc-44a4-a499-18d6d78abec5" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7aa61cd9-dd14-4334-8180-b3cdb00a99f6" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="a0e37a8e-c619-4d0a-840a-061831fb0523" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="91db1490-068c-da56-2230-ccc3940013e7" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="82bc7c36-4db4-4c9b-b883-0f43ca3a94da" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="95ddb0f2-1171-4744-961b-25a0e8e56c08" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="fa2229c2-20ea-48a8-a836-5390dc371188" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="a0fb7229-eb4f-ebd0-ba54-1950831c169e" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="1f7a5a73-ad67-48e5-92f8-183a7627371a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="27d9e6d6-6b69-f76a-b85a-3f002080cec4" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3a245671-64b5-4089-a427-ae9cf8489244" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="999a8773-6bca-e107-1d64-6cee8aecc73c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="b7308c90-6ac4-4b8c-b106-5055d5e1fc48" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="158c412a-b6a0-48b0-43a1-c8d6a43bf94d" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="dda67d77-e66f-454c-8312-5cb558a83fda" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="0585cd8b-6516-9940-2596-97a7c755bd97" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="e1f6de9e-c01a-484f-ad89-cbeb1f9af79c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="8130b8e6-c8ba-4fd0-9303-d5aea7275aa7" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ea291721-3cfd-4138-81b3-9a2f73d63922" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="9be1d2fd-68f2-4439-f5d6-17ad90eabd38" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7c7ead23-dad4-4ed7-9296-88b657607627" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="92fdef9f-552d-3c1e-fcbc-b1c8cdab0e9d" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="78e23547-b757-423f-9fb9-d0b1d00c14c4" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="0c6b1ef9-01d1-4433-b5ed-aa85d01cb220" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="50055889-90c7-48a3-9153-66ae67781965" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7a6032cd-36c2-49f2-a369-9da926c7db2f" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="94b5ef10-e510-4253-83ef-c76d9e4f3487" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="025fa6be-55ec-43fe-af6a-03b746163d72" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ffbbbd57-5c31-444d-bc3a-c3d14df0be53" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="6dbe237a-0c78-4023-a6b7-30349e0505db" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="9be448a7-d60a-44a4-8237-68a27c6fe100" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="2c361b29-c4db-4441-b32a-35d52af6d9dd" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="d0756d07-fd81-4fab-b4af-03d565c7f059" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c232329e-2d4e-4f0c-a4d4-ea1585fce27c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="5dac329f-b08a-412d-84bc-86fc1aecae45" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c6295e80-586c-4fd9-8777-d754514b6bb6" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f728f472-57d5-45ce-be9e-6e2f927bee0d" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="85465820-04dc-4e33-ae22-d9123f00da86" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="0ade66ba-2f91-4a6d-b9e5-8cc3bece62d7" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="4f25a58c-a549-43c8-a972-8290e14916fb" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="99648c10-b438-4c56-8dcc-5999b5a69e48" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="568cdfc7-a642-46a9-be72-40e12aa607b3" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c5f14459-3546-4873-a16a-dc5b75cb5ecb" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="4cdcd5f9-dbac-450e-be7e-572d94426dbe" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="c9040e53-b055-47e3-ada2-0b5ce361f2eb" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="498739bb-20a9-40e0-aab4-411a4e1e4c7b" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="220abafa-e55f-4124-8cb7-16fca63fda5f" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="7190860d-f11d-4ed4-b270-dca21d2bd49b" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="43838346-10a3-47a8-aa2e-34f70e75ecfd" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="8002bea3-7c3a-47ba-b702-e2439caafc22" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="5ddb2829-dfa1-4f42-83a3-9890b16e7866" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="2890e875-b9cf-4c2d-ae35-437d4cc34baa" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="92089f00-7898-4299-9136-b06de010749a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ca30fd09-fdd6-42df-9c97-f20f7288b16c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="f12979e6-d959-4074-bec0-382aa26ace5b" />
+						</node>
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

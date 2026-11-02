@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
+	<region id="root">
+		<node id="root">
+			<attribute id="MaterialResourceID" type="guid" value="ab371ccd-1d76-c0fd-3136-e0eb47c92746" />
+			<attribute id="Name" type="FixedString" value="VFX_OverlayMaterial_AlphaBlend_Unlit_Emissive_Preskinned_Mask_Karlach_HandFX_Fire_01" />
+			<children>
+				<node id="strMaterialReference">
+					<attribute id="Key" type="guid" value="de5b76f9-596b-82ff-3986-fa1e8f222925" />
+					<attribute id="VisualResourceID" type="guid" value="a1292048-0f09-89e2-2fd6-42d8afe3ef02" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="5de6e39e-4171-57d8-b923-32cdcfbaaa13" />
+					<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="0aaff837-82b5-5d43-8d8f-4b9b00869852" />
+					<attribute id="VisualResourceID" type="guid" value="5eaccc19-26e6-4bcf-be6c-7fb5b671d366" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="9fe02bad-bbe7-5678-b8ca-ba66f623336f" />
+					<attribute id="SlotIndex" type="int32" value="0" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="4a5c7855-ea06-5a1c-b3dc-ed36b2c1a0a1" />
+					<attribute id="SlotIndex" type="int32" value="1" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="9966da82-bfef-54d2-b959-4f3a131bf7f1" />
+					<attribute id="SlotIndex" type="int32" value="2" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="cc2eaea3-f97a-5cb3-88b7-5d03f1b94191" />
+					<attribute id="SlotIndex" type="int32" value="3" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="be4f88c3-928a-520e-b20f-083ac0adbdc4" />
+					<attribute id="SlotIndex" type="int32" value="4" />
+					<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+				</node>
+				<node id="strMaterialReference">
+					<attribute id="ForceEnabled" type="bool" value="True" />
+					<attribute id="Key" type="guid" value="730986cb-443e-5396-9a82-e49d3c595d35" />
+					<attribute id="SlotIndex" type="int32" value="0" />
+					<attribute id="VisualResourceID" type="guid" value="f138ea52-6d23-4581-a666-d0cc87d2e6d0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

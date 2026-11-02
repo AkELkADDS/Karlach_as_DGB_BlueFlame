@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TimelineBank">
+		<node id="TimelineBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BodyPartMocap" type="int32" value="1" />
+					<attribute id="DialogResourceId" type="guid" value="b413b479-39e8-d999-ebda-ebd106af9641" />
+					<attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Timeline/Generated/ORI_Karlach_FoundSoulCoin.tml" />
+					<attribute id="EditorTimelineType" type="int32" value="0" />
+					<attribute id="FadeOutDuration" type="float" value="0" />
+					<attribute id="FadeOutOnEnd" type="bool" value="False" />
+					<attribute id="ID" type="FixedString" value="e3d6123c-122a-ac0f-4a0c-a212aec1bb0c" />
+					<attribute id="IsGenerated" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="ORI_Karlach_FoundSoulCoin" />
+					<attribute id="SourceFile" type="LSString" value="Public/Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655/Content/[PAK]_Timelines/ORI_Karlach_FoundSoulCoin.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="b413b479-39e8-d999-ebda-ebd106af9641" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="2c76687d-93a2-477b-8b18-8a14b549304c" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="8c46e161-39fb-40fb-8d87-43376162d691" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="18c04137-6b44-47e2-8c29-f92556c523da" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3278f064-5353-4c08-ab96-c2f432d0fda0" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="9b0e24a7-236c-4c0d-a583-398b2de18888" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="914fb347-3cd2-440e-bfc7-aa758bf04fce" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="92a4211b-c98e-4482-a990-c9ebe9107cd5" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ffc5c575-9f16-48c8-b71e-656b611cb879" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="eabbb76b-2e78-420d-8e86-828bd652fea0" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="3f373a17-da46-40ca-bcd8-47d67f295843" />
+						</node>
+						<node id="DependencyCache">
+							<attribute id="Object" type="guid" value="ef50eda8-c9ca-4e49-8a72-3d06f57a0fd9" />
+						</node>
+					</children>
+				</node>
+
+			</children>
+		</node>
+	</region>
+</save>

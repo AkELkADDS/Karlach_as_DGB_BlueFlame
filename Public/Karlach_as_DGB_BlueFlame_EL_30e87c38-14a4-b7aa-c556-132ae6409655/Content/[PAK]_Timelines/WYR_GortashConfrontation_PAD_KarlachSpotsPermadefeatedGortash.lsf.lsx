@@ -1,0 +1,980 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="5" revision="0" build="0" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TimelineContent">
+		<node id="TimelineContent">
+			<attribute id="CompilationTimeStamp" type="int64" value="1700742952" />
+			<children>
+				<node id="Effect">
+					<attribute id="Duration" type="float" value="5.563302" />
+					<children>
+						<node id="Phases">
+							<children>
+								<node id="Phase">
+									<attribute id="Duration" type="float" value="5.563302" />
+									<attribute id="PlayCount" type="int32" value="1" />
+									<attribute id="DialogNodeId" type="guid" value="89ad06cc-b5cb-4e59-83de-1bef11b0036e" />
+									<children>
+										<node id="QuestionHoldAutomation" />
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Inputs" />
+						<node id="EffectComponents">
+							<children>
+								<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLVoice" />
+									<attribute id="ID" type="guid" value="956d2bfa-3e97-4021-8e5f-9f90b113da0f" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<attribute id="DialogNodeId" type="guid" value="89ad06cc-b5cb-4e59-83de-1bef11b0036e" />
+									<attribute id="ReferenceId" type="guid" value="89ad06cc-b5cb-4e59-83de-1bef11b0036e" />
+									<attribute id="PerformanceFade" type="double" value="1" />
+									<attribute id="FadeIn" type="double" value="0.9" />
+									<attribute id="FadeOut" type="double" value="0" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+									</children>
+								</node>
+								<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLEmotionEvent" />
+									<attribute id="ID" type="guid" value="334b2626-1182-4b00-ab0a-5d1472e656a3" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+										<node id="Keys">
+											<children>
+												<node id="Key">
+													<attribute id="InterpolationType" type="uint8" value="3" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLLookAtEvent" />
+									<attribute id="ID" type="guid" value="4dfd8662-d3a5-46c8-a7b1-ef5cd59501b8" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+									</children>
+								</node>
+<node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLMaterial" />
+									<attribute id="ID" type="guid" value="159e3072-d900-4150-b8de-b514ed3a5eaa" />
+									<attribute id="StartTime" type="float" value="0.0" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="PhaseIndex" type="int64" value="0" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<attribute id="GroupId" type="guid" value="489f5ab8-ace1-4a39-818c-07273191eaf9" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+										<node id="MaterialParameter">
+											<children>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="3" />
+													<attribute id="MaterialParameterName" type="FixedString" value="Eyes_GlowColour" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.17343903" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.17343903" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="GlowBrightness" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="60.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="60.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="FxMasking" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="7" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="7" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="3" />
+													<attribute id="MaterialParameterName" type="FixedString" value="Eyes_IrisColour" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.96581465" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.96581465" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.011881333" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.011881333" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="3" />
+													<attribute id="MaterialParameterName" type="FixedString" value="Eyes_IrisSecondaryColour" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3537409" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3537409" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3344578" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3344578" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="2" />
+													<attribute id="MaterialParameterName" type="FixedString" value="FlameDirection" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="2" />
+													<attribute id="MaterialParameterName" type="FixedString" value="FlameSpeed" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="GlowBrightnessPupil" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="18.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="18.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node><node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="AnimationSpeed" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.8" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											<node id="Node">
+													<attribute id="Dimensions" type="int32" value="3" />
+													<attribute id="MaterialParameterName" type="FixedString" value="GlowColour" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.17343903" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.17343903" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node></children>
+										</node>
+										<node id="VisibilityChannel" />
+									</children>
+								</node><node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLMaterial" />
+									<attribute id="ID" type="guid" value="d6a8f800-1826-4292-9e15-de90bdf3616c" />
+									<attribute id="StartTime" type="float" value="0.0" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="PhaseIndex" type="int64" value="0" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<attribute id="GroupId" type="guid" value="ae2d949b-5a58-465c-abb4-c15e627a2a7b" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+										<node id="MaterialParameter">
+											<children>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Colour_BlackBody" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="Dimensions" type="int32" value="3" />
+													<attribute id="MaterialParameterName" type="FixedString" value="BlackBody_Colour" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.3" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.1" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.1" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Use_BlackBody" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="VisibilityChannel" />
+									</children>
+								</node><node id="EffectComponent">
+									<attribute id="Type" type="LSString" value="TLMaterial" />
+									<attribute id="ID" type="guid" value="7ee3d3c2-f2c1-422c-9e46-33e7470abc94" />
+									<attribute id="StartTime" type="float" value="0.0" />
+									<attribute id="EndTime" type="float" value="5.563302" />
+									<attribute id="PhaseIndex" type="int64" value="0" />
+									<attribute id="IsSnappedToEnd" type="bool" value="True" />
+									<attribute id="GroupId" type="guid" value="4877d957-f3f4-5aca-b787-23580b53bde8" />
+									<attribute id="IsOverlay" type="bool" value="True" />
+									<children>
+										<node id="Actor">
+											<attribute id="UUID" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+										</node>
+										<node id="MaterialParameter">
+											<children>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Colour_BlackBody" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Intensity" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Height_Factor" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="2.5" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="2.5" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="Opacity_ADD" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.7" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="0.7" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="PreRampIntensity" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="1.0" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+												<node id="Node">
+													<attribute id="MaterialParameterName" type="FixedString" value="PostRampIntensity" />
+													<children>
+														<node id="MaterialParameter">
+															<children>
+																<node id="Keys">
+																	<children>
+																		<node id="Key">
+																			<attribute id="Time" type="float" value="0.0" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="2.5" />
+																		</node><node id="Key">
+																			<attribute id="Time" type="float" value="5.563302" />
+																			<attribute id="InterpolationType" type="uint8" value="2" />
+																			<attribute id="Value" type="float" value="2.5" />
+																		</node></children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+										<node id="VisibilityChannel" />
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="TimelineSpeakers">
+					<children>
+						<node id="Object" key="MapKey">
+							<attribute id="MapKey" type="int32" value="0" />
+							<attribute id="MapValue" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+						</node>
+					</children>
+				</node>
+				<node id="TimelineActorData">
+					<children>
+						<node id="TimelineActorData">
+							<children>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="guid" value="ab669d18-f67a-4bc7-9f5d-83db47439bc1" />
+									<children>
+										<node id="Value">
+											<attribute id="Speaker" type="int32" value="0" />
+											<attribute id="ActorTypeId" type="FixedString" value="character" />
+											<attribute id="ActorType" type="uint8" value="0" />
+											<attribute id="DefaultStepOutDelay" type="float" value="0.12891018" />
+											<attribute id="IsAutomatedLookatEnabled" type="bool" value="True" />
+											<attribute id="AudienceSlot" type="uint8" value="16" />
+											<attribute id="SceneActorType" type="uint8" value="2" />
+											<attribute id="SceneActorIndex" type="int32" value="0" />
+											<children>
+												<node id="CompiledNodeSnapshots">
+													<children>
+														<node id="ComponentMap">
+															<children>
+																<node id="Object" key="MapKey">
+																	<attribute id="MapKey" type="uint64" value="0" />
+																	<children>
+																		<node id="ComponentMap">
+																			<children>
+																				<node id="Cache">
+																					<children>
+																						<node id="Object" key="MapKey">
+																							<attribute id="MapKey" type="uint32" value="3" />
+																							<children>
+																								<node id="Cache">
+																									<children>
+																										<node id="ComponentIndex">
+																											<attribute id="Object" type="int64" value="1" />
+																										</node>
+																									</children>
+																								</node>
+																							</children>
+																						</node>
+																					</children>
+																				</node>
+																			</children>
+																		</node>
+																	</children>
+																</node>
+															</children>
+														</node>
+													</children>
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="TimelinePhases">
+					<children>
+						<node id="Object">
+							<children>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="guid" value="89ad06cc-b5cb-4e59-83de-1bef11b0036e" />
+									<attribute id="MapValue" type="uint64" value="0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="PeanutSlotIdMap">
+					<children>
+						<node id="Object" />
+					</children>
+				</node>
+				<node id="TimelineSettings">
+					<attribute id="BodyPartForMocap" type="int32" value="1" />
+					<children>
+						<node id="FoleySettings" />
+						<node id="ExposureSettings" />
+						<node id="QuestionHoldAutomation">
+							<attribute id="IsEnabled" type="bool" value="False" />
+							<attribute id="CycleSpeed" type="float" value="0" />
+						</node>
+					</children>
+				</node>
+				<node id="AdditionalLocations" />
+				<node id="RequiredCinematicLevelTemplateIds" />
+				<node id="MaterialGroupLookup">
+					<children>
+						<node id="Object"><children><node id="Object" key="MapKey">
+									<attribute id="MapKey" type="guid" value="ae2d949b-5a58-465c-abb4-c15e627a2a7b" />
+									<children>
+										<node id="MapValue">
+											<attribute id="MaterialResourceID" type="guid" value="00caa442-cea1-d836-2ccf-828a69c68abf" />
+											<children>
+												<node id="strMaterialReference">
+													<attribute id="VisualResourceID" type="guid" value="f138ea52-6d23-4581-a666-d0cc87d2e6d0" />
+													<attribute id="Key" type="guid" value="3bda1db9-4dda-4717-87be-e0004a77044a" />
+													<attribute id="ForceEnabled" type="bool" value="True" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node><node id="Object" key="MapKey">
+									<attribute id="MapKey" type="guid" value="4877d957-f3f4-5aca-b787-23580b53bde8" />
+									<children>
+										<node id="MapValue">
+											<attribute id="MaterialResourceID" type="guid" value="8a538ded-ae8c-edf1-5183-7249a3b242e7" />
+											<children>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="f138ea52-6d23-4581-a666-d0cc87d2e6d0" />
+													<attribute id="SlotIndex" type="int32" value="0" />
+													<attribute id="Key" type="guid" value="c24b3435-9154-5fa4-803e-b4df6c6e258a" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+													<attribute id="SlotIndex" type="int32" value="0" />
+													<attribute id="Key" type="guid" value="5fc76bb9-704f-5dc5-b91a-c6c305096ae5" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+													<attribute id="SlotIndex" type="int32" value="1" />
+													<attribute id="Key" type="guid" value="24a99cc9-2e57-5741-bd3a-aaaba6304e78" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+													<attribute id="SlotIndex" type="int32" value="2" />
+													<attribute id="Key" type="guid" value="ad39ca0e-15df-537d-91d8-99c749ec5241" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+													<attribute id="SlotIndex" type="int32" value="3" />
+													<attribute id="Key" type="guid" value="ed868f00-4060-5154-85e3-9c6220a8db94" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="3c330e29-00fa-4024-92a2-cbafb6c0cfb4" />
+													<attribute id="SlotIndex" type="int32" value="4" />
+													<attribute id="Key" type="guid" value="1c9a684c-9342-5ec9-91c4-e50144883641" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+													<attribute id="SlotIndex" type="int32" value="0" />
+													<attribute id="Key" type="guid" value="a2d1fd82-7799-58bb-a27e-22032a8f5caf" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+													<attribute id="SlotIndex" type="int32" value="1" />
+													<attribute id="Key" type="guid" value="7350312c-d94a-542b-b074-c28ec51bddbf" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+													<attribute id="SlotIndex" type="int32" value="3" />
+													<attribute id="Key" type="guid" value="aa8a75ca-f6d2-5a7c-8995-3673f2ba2b76" />
+												</node>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+													<attribute id="SlotIndex" type="int32" value="4" />
+													<attribute id="Key" type="guid" value="3765c4e3-9758-5a36-83bf-21e58a9be4d2" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node><node id="Object" key="MapKey">
+									<attribute id="MapKey" type="guid" value="489f5ab8-ace1-4a39-818c-07273191eaf9" />
+									<children>
+										<node id="MapValue">
+											<attribute id="MaterialResourceID" type="guid" value="139d7540-7c20-e1ab-0c41-9126c5ff828d" />
+											<children>
+												<node id="strMaterialReference">
+													<attribute id="ForceEnabled" type="bool" value="True" />
+													<attribute id="VisualResourceID" type="guid" value="fc3981bb-6697-4020-8c19-7245b1b267ae" />
+													<attribute id="SlotIndex" type="int32" value="2" />
+													<attribute id="Key" type="guid" value="f394bfb5-7d56-b8fd-6b62-5966a9f4f6eb" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node></children></node>
+					</children>
+				</node>
+				<node id="CombatTimelineHandlers">
+					<children>
+						<node id="CombatTimelineHandler">
+							<attribute id="Priority" type="int32" value="0" />
+						</node>
+					</children>
+				</node>
+				<node id="WorldTimeline">
+					<children>
+						<node id="ActorEndStates">
+							<children>
+								<node id="ActorEndState" />
+							</children>
+						</node>
+						<node id="ActorIdleOverrides">
+							<children>
+								<node id="ActorIdleOverride" />
+							</children>
+						</node>
+						<node id="BehaviourActorStartConditions">
+							<children>
+								<node id="BehaviourActorStartCondition" />
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="RootCompiledNodeSnapshots">
+					<children>
+						<node id="ComponentMap" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="EnterPhaseSoundEvents">
+		<node id="EnterPhaseSoundEvents">
+			<children>
+				<node id="SoundEventMap" />
+			</children>
+		</node>
+	</region>
+	<region id="ExitPhaseSoundEvents">
+		<node id="ExitPhaseSoundEvents">
+			<children>
+				<node id="SoundEventMap" />
+			</children>
+		</node>
+	</region>
+	<region id="EnterSoundEvents">
+		<node id="EnterSoundEvents" />
+	</region>
+	<region id="ExitSoundEvents">
+		<node id="ExitSoundEvents" />
+	</region>
+</save>
