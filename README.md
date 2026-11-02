@@ -1,8 +1,7 @@
-Clawstep - Dragonborn female body
+Karlach VFX
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
-
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+[Patreon
+](https://www.patreon.com/AkELkA/posts/karlach-vfx-wip-173038956)
+Karlach_as_DGB_BlueFlame_EL_30e87c38-14a4-b7aa-c556-132ae6409655
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
